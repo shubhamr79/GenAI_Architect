@@ -24,8 +24,8 @@ This project is a semantic search-powered Course Recommendation Engine that sugg
 ## Installation
 
 1. **Clone the repo**
-    git clone 
-    cd 
+    git clone `https://github.com/shubhamr79/GenAI_Architect.git
+    cd GenAI_Architect/assignment_2
     
 2. Install the requirements
     pip install -r requirements.txt
